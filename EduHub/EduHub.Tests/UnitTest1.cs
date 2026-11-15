@@ -1,4 +1,5 @@
-﻿namespace EduHub.Tests
+﻿
+namespace EduHub.Tests
 {
     public class UnitTest1
     {

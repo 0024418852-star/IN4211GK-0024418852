@@ -3,4 +3,5 @@
   <Project Path="EduHub.Application/EduHub.Application.csproj" Id="2276d87e-cea0-4ad3-bea8-ffaeec26ac29" />
   <Project Path="EduHub.Domain/EduHub.Domain.csproj" Id="13a2c242-a287-41a5-9e71-d18acddd2d57" />
   <Project Path="EduHub.Infrastructure/EduHub.Infrastructure.csproj" Id="231343ab-5bbc-4e59-8884-852b0e261f80" />
+  <Project Path="EduHub.Tests/EduHub.Tests.csproj" Id="04e49bf6-1ad5-4293-bde9-6968c1466eeb" />
 </Solution>
